@@ -23,8 +23,8 @@
 1. **Клонируем репозиторий и переходим в папку проекта:**
 
 ```bash
-git clone https://github.com/ElviraOndar/otus-homeworks.git
-cd otus-homeworks/06_FastAPI
+git clone https://github.com/ElviraOndar/otus-fastapi-app.git
+cd otus-fastapi-app
 ```
 
 **Собираем и запускаем контейнеры:**

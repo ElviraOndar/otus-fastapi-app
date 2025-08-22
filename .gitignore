@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+*.log
+
+# Виртуальное окружение
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Кеши и временные папки
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+
+# Системные файлы
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Секреты и конфиги
+.env
+
+# Локальные данные
+_files/

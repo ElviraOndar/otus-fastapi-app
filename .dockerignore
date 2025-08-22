@@ -1,0 +1,26 @@
+# Кеш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Системные файлы
+.DS_Store
+
+# Venv и IDE
+.venv/
+.idea/
+.vscode/
+
+# Git и прочее
+.git/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+
+# Секреты
+.env
+
+# Локальные данные
+_files/
