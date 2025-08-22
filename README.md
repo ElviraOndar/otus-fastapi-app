@@ -30,7 +30,7 @@ cd otus-fastapi-app
 2. **Копируем пример .env**
 
 ```bash
-cp .env.example .env
+cp ..env.example .env
 ```
 3. **Редактируем .env, указываем свои данные для Postgres**
 
