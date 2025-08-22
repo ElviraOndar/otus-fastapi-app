@@ -27,7 +27,18 @@ git clone https://github.com/ElviraOndar/otus-fastapi-app.git
 cd otus-fastapi-app
 ```
 
-**Собираем и запускаем контейнеры:**
+2. **Копируем пример .env**
+
+```bash
+cp .env.example .env
+```
+3. **Редактируем .env**
+
+```bash
+Отредактировать .env, указав свои данные (POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB).
+
+```
+4. **Собираем и запускаем контейнеры:**
 
 ```bash
 
