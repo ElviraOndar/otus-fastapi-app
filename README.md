@@ -32,10 +32,10 @@ cd otus-fastapi-app
 ```bash
 cp .env.example .env
 ```
-3. **Редактируем .env**
+3. **Редактируем .env, указываем свои данные для Postgres**
 
 ```bash
-Отредактировать .env, указав свои данные (POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB).
+Заполняем POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB.
 
 ```
 4. **Собираем и запускаем контейнеры:**
